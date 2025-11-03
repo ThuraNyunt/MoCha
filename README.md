@@ -96,8 +96,11 @@ python inference_mocha.py --data_path path/to/your/data.csv
 Have more ideas? Welcome to scan the code and join the WeChat group for in-depth discussion!
 
 <div style="margin-top: 0px; margin-bottom: 0px;">
-<img src="https://github.com/user-attachments/assets/15e11f48-e8a8-44e1-a9d0-b5c223e2a2e8" width="30%"/>
+<img src="https://github.com/user-attachments/assets/1de4cbd6-4b2f-42cf-adfa-fe9775579d0f" width="30%"/>
+
 </div>
+
+
 
 
 ## 🌟 Citation
@@ -112,6 +115,7 @@ Please leave us a star 🌟 and cite our repo if you find our work helpful.
   url={https://github.com/Orange-3DV-Team/MoCha}, 
 }
 ```
+
 
 
 
